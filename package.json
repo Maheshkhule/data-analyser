@@ -1,0 +1,15 @@
+{
+  "name": "data-analyzer",
+  "version": "1.0.0",
+  "description": "AI Data Analyzer with Netlify Functions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
